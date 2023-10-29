@@ -1,5 +1,5 @@
 package org.example;
-// git token: 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
+// git token: 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
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
