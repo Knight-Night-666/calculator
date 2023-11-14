@@ -1,6 +1,6 @@
 package org.example;
 import java.util.*;
-// git token: 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
+// git token: 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
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 // made a change
