@@ -1,6 +1,6 @@
 package org.example;
 import java.util.*;
-// git token: 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
+// git token: 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
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 // made a change
@@ -23,7 +23,7 @@ public class Main {
     public static void main(String[] args) {
         Main calc = new Main();
         Scanner in = new Scanner(System.in);
-        System.out.println("WELCOME TO HELL, CHOOSE OPTIONS:");
+        System.out.println("WELCOME, CHOOSE OPTIONS:");
         int choice = 5;
         do{
             System.out.println("1: add");
@@ -66,7 +66,7 @@ public class Main {
                     System.out.println("Apka Ans: " + ans);
                     break;
                 case 5:
-                    System.out.println("Outta Hell");
+                    System.out.println("Outta Here");
                     break;
                 default:
                     System.out.println("Samajh ni ati kya choices, enter again");
